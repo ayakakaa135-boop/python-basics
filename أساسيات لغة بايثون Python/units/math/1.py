@@ -1,0 +1,10 @@
+import math
+print(math.gcd(2,4,45,5))
+print(math.lcm(2,4,45,5))
+print(round(4.5))
+print(math.exp(2.4))
+print(math.log(2,3))
+print(math.pow(2,4))
+print(math.sqrt(144))
+print(math.pi)
+print(math.e)
